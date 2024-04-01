@@ -1,9 +1,3 @@
-<style>
-          img{
-                    width="50px";
-                    height="50px";
-          }
-</style>
 Hello, My name is João Fábio !👋
 Olá, me chamo João Fábio !👋
 
@@ -13,7 +7,7 @@ Moro em Salvador, Bahia, Brasil.
 I'm attending college at Ucsal.👨‍🎓
 Estou fazendo faculdade na Ucsal.👨‍🎓
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="" height="" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" height="50px" />
 
 
 
