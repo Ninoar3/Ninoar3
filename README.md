@@ -7,7 +7,7 @@ Moro em Salvador, Bahia, Brasil.
 I'm attending college at Ucsal.👨‍🎓
 Estou fazendo faculdade na Ucsal.👨‍🎓
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="10%" height="75px" />
 
 
 
