@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=75&section=header"/>
 
-## Hi, my name is João Fábio and I'm a student at UCSAL University living in Salvador, Bahia, Brazil.<br><br>Oi, meu nome é João Fábio e sou estudante da Universidade UCSAL morro em Salvador, Bahia, Brasil.<br><br>
+## Hi, my name is João Fábio and i am a student at UCSAL University living in Salvador, Bahia, Brazil.<br><br>Oi, meu nome é João Fábio e sou estudante da Universidade UCSAL morro em Salvador, Bahia, Brasil.<br><br>
 
 ### *Skills:*
 
