@@ -1,11 +1,6 @@
-# Hello, My name is João Fábio!
- #Olá, me chamo João Fábio !
+## Hi, my name is João Fábio and I'm a student at UCSAL University living in Salvador, Bahia, Brazil.<br><br>Oi, meu nome é João Fábio e sou estudante da Universidade UCSAL morro em Salvador, Bahia, Brasil.<br><br>
 
-#Live in Salvador, Bahia, Brazil.
-#Moro em Salvador, Bahia, Brasil.
-
-#I'm attending college at Ucsal.
-#Estou fazendo faculdade na Ucsal.
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
